@@ -1,0 +1,11 @@
+dataset,public_identifier_or_source,rows_or_chemicals,contents,model_use,unusable_or_excluded
+GSE63935,GEO GSE63935,70 chemicals in processed bundle,3D human neural RNA effects at developmental time points,Core chemical-level RNA pathway development dose and descriptor features,Individual samples are not split across folds
+GSE126786,GEO GSE126786 / DevTox2D,39 chemicals,2D human neural TPM expression,Label-free top-variable-gene prior for transcriptomic branch,Overlapping toxic labels and sample-presence indicators are excluded
+BrainSpan,Allen Institute BrainSpan,developmental reference samples,Human developmental brain expression,Prenatal correlation and maturation features,Not chemical exposure training examples
+GSE166297,GEO GSE166297,external organoid exposure study,Organoid RNA-seq,External gene-priority evidence inherited from V3,Not pooled as interchangeable labeled rows
+EPA Carstens DNT-NAM,EPA Data.gov / CompTox-Evaluation-DNTNAMs,92 chemicals and 57 endpoints,Proliferation neurite synapse and developmental MEA modeled activity,Four descriptor-transfer models plus 11 exact GSE matches,Cytotoxicity endpoints excluded from primary domain targets
+Harrill HCI,EPA Data.gov,48856 rows and 21 endpoints,Concentration-response apoptosis proliferation neurite synapse and viability,Endpoint provenance represented through Carstens,Not double counted because it overlaps Carstens
+Brown MEA,EPA Data.gov,990 rows and 7 treatments,Developmental firing burst and network measurements,MEA provenance represented through Carstens,Not double counted because of overlap and small panel
+ToxCast MEA single concentration,EPA Data.gov,4218 rows,Sample IDs assay values and hit/final calls,MEA provenance and ID cross-check,No complete standalone chemical-name key and overlaps Carstens
+Cohn oligodendrocyte screen,EPA Data.gov,1823 chemicals,O1 normalized oligodendrocyte signal and viability,19 GSE matches with 16 usable non-cytotoxic scores,Three matched low-viability measurements excluded and unmatched chemicals are not negatives
+PubChem,PUG REST,70 GSE chemicals and 91 of 92 EPA chemicals,Auditable molecular descriptors,Chemical context and EPA assay transfer,Unresolved polymers mixtures proteins and one EPA chemical remain missing
