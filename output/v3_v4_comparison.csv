@@ -1,0 +1,4 @@
+version,roc_auc,accuracy,evaluation
+V4 seven-model integrated,0.8699095022624435,0.7333333333333333,nested chemical-level stack CV
+V4 no-public-assay stack,0.8755656108597285,0.75,nested chemical-level stack CV
+V4 equal-weight branch mean,0.8563348416289592,0.75,nested chemical-level branch CV

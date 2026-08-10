@@ -1,0 +1,7 @@
+branch,public_score_column,final_public_fusion_alpha
+growth_proliferation,public__growth_proliferation__integrated_score,0.2
+progenitor_organization,public__progenitor_organization__integrated_score,0.1
+excitatory_inhibitory_balance,,0.0
+synaptic_integrity,public__synaptic_integrity__integrated_score,0.0
+electrophysiology,public__electrophysiology__integrated_score,0.1
+transcriptomic_risk,,0.0

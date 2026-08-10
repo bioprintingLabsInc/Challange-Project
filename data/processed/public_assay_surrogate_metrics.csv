@@ -1,0 +1,5 @@
+domain,panel_n,active_n,inactive_n,descriptor_surrogate_cv_roc_auc,descriptor_surrogate_cv_balanced_accuracy,endpoint_count
+growth_proliferation,91,39,52,0.7297830374753451,0.7147435897435898,3
+progenitor_organization,91,49,42,0.741010689990282,0.7040816326530612,8
+synaptic_integrity,91,44,47,0.7674081237911025,0.7154255319148937,8
+electrophysiology,91,66,25,0.7351515151515151,0.6436363636363637,34

@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+pubchem_cache/
+*.tmp
+
+# Keep processed, versioned research artifacts intentionally. Add raw proprietary or
+# license-restricted datasets to data/raw/ locally; do not commit them.
+data/raw/

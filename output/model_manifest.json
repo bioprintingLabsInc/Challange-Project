@@ -1,0 +1,42 @@
+{
+  "model_version": "4.1",
+  "created_at_utc": "2026-08-07T07:21:05.430438+00:00",
+  "feature_bundle": {
+    "file": "data/processed/v4_feature_bundle.joblib",
+    "sha256": "48e38ba46b1247fd1f204e04dbbcb9b650e791219f1e8b44be6b6afbb70702e2"
+  },
+  "training_script_sha256": "43fe1afd7c3e8da943df25666eb5368e382a23fbd7155cdb3af1d76e5a115c7c",
+  "artifacts": {
+    "integrated": {
+      "file": "dnt_v4_seven_model_stack.joblib",
+      "sha256": "af2da3ab97ed3445450c0ef75086e57608cf0aa39b6373b30e48de53bbf00133",
+      "nested_cv_roc_auc": 0.8699095022624435,
+      "nested_cv_accuracy": 0.7333333333333333
+    },
+    "no_public_assay_transfer": {
+      "file": "dnt_v4_no_public_stack.joblib",
+      "sha256": "8ce2530d20e0f9db6881310c34965dbf112c0284f98f8edbb4d0af32a3957c09",
+      "nested_cv_roc_auc": 0.8755656108597285,
+      "nested_cv_accuracy": 0.75
+    }
+  },
+  "preferred_internal_candidate": "no_public_assay_transfer",
+  "candidate_selection_note": "Marginally higher nested ROC AUC and accuracy with lower complexity; difference is not an independent external comparison.",
+  "python_version": "3.14.2",
+  "scikit_learn_version": "1.8.0",
+  "pandas_version": "3.0.1",
+  "numpy_version": "2.4.0",
+  "training_chemicals": 60,
+  "legacy_benchmark_chemicals": 10,
+  "validation_group_column": null,
+  "branch_order": [
+    "growth_proliferation",
+    "progenitor_organization",
+    "excitatory_inhibitory_balance",
+    "synaptic_integrity",
+    "electrophysiology",
+    "transcriptomic_risk"
+  ],
+  "decision_threshold": 0.5,
+  "scope_warning": "Research prioritization model. Performance is internal chemical-level nested CV on 60 labeled GSE63935 chemicals and is not prospective regulatory validation."
+}
