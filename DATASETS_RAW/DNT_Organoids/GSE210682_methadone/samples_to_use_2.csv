@@ -1,0 +1,15 @@
+﻿Run,GSM,Cell_Line,Treatment,Compound,Concentration,Exposure_Days,Tissue,Sample_Type,DNT_Class
+SRR20950128,GSM6435456,B,Methadone Treatment,Methadone,1 µM,50,corticoid organoid,treated,Test_Compound
+SRR20950129,GSM6435455,B,Methadone Treatment,Methadone,1 µM,50,corticoid organoid,treated,Test_Compound
+SRR20950130,GSM6435454,B,Methadone Treatment,Methadone,1 µM,50,cortical organoid,treated,Test_Compound
+SRR20950131,GSM6435453,B,Methadone Treatment,Methadone,1 µM,50,cortical organoid,treated,Test_Compound
+SRR20950132,GSM6435452,B,Control (Vehicle),Nuclease-free water,vehicle,50,cortical organoid,control,Vehicle_Control
+SRR20950133,GSM6435451,B,Control (Vehicle),Nuclease-free water,vehicle,50,cortical organoid,control,Vehicle_Control
+SRR20950134,GSM6435450,B,Control (Vehicle),Nuclease-free water,vehicle,50,cortical organoid,control,Vehicle_Control
+SRR20950135,GSM6435449,B,Control (Vehicle),Nuclease-free water,vehicle,50,cortical organoid,control,Vehicle_Control
+SRR20950136,GSM6435448,A,Methadone Treatment,Methadone,1 µM,50,cortical organoid,treated,Test_Compound
+SRR20950137,GSM6435447,A,Methadone Treatment,Methadone,1 µM,50,cortical organoid,treated,Test_Compound
+SRR20950138,GSM6435446,A,Methadone Treatment,Methadone,1 µM,50,cortical organoid,treated,Test_Compound
+SRR20950139,GSM6435445,A,Control (Vehicle),Vehicle,vehicle,50,cortical organoid,control,Vehicle_Control
+SRR20950140,GSM6435444,A,Control (Vehicle),Vehicle,vehicle,50,cortical organoid,control,Vehicle_Control
+SRR20950141,GSM6435443,A,Control (Vehicle),Vehicle,vehicle,50,cortical organoid,control,Vehicle_Control

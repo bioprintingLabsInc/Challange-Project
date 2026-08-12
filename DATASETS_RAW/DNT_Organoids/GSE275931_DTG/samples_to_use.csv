@@ -1,0 +1,11 @@
+﻿Run,GSM,Treatment,Compound,Concentration,Exposure_Days,IPSC_Line,Sample_Type,DNT_Class
+SRR30447777,GSM8488290,DMSO,DMSO,Vehicle,12,C1-2,Control,Vehicle_Control
+SRR30447778,GSM8488289,DMSO,DMSO,Vehicle,12,C1-2,Control,Vehicle_Control
+SRR30447779,GSM8488288,DMSO,DMSO,Vehicle,12,C1-2,Control,Vehicle_Control
+SRR30447780,GSM8488287,Dol,Dolutegravir,10 µM,12,C1-2,Treated,Test_Compound
+SRR30447781,GSM8488286,Dol,Dolutegravir,10 µM,12,C1-2,Treated,Test_Compound
+SRR30447782,GSM8488285,Dol,Dolutegravir,10 µM,12,C1-2,Treated,Test_Compound
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

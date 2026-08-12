@@ -1,0 +1,5 @@
+﻿Category,GEO_Accession,Dataset_Name,Model,RNA_Type,Compound,Concentration,Exposure_Days,IPSC_Line,Treated_N,Control_N,Control_Type,DNT_Label,DNT_Negative_Compound,Raw_SRA_Available,Include,Notes
+DNT_Organoid,GSE275931,Dolutegravir-exposed forebrain organoids,Human forebrain organoid,Bulk RNA-seq,Dolutegravir,10 µM,12,C1-2,3,3,DMSO vehicle,Test_Compound,No,Yes,yes,no dedicated DNT-negative compound
+DNT_Organoid,GSE210682,Methadone-exposed cortical organoids,Human cortical organoid,Bulk RNA-seq,Methadone,1 µM,50,A; B,7,7,Nuclease-free water vehicle,Test_Compound,No,Yes,Yes,50-day exposure; two healthy donor-derived IPSC lines
+Control_Organoid,GSE140843,Healthy control IPSC-derived cerebral organoids,Human cerebral organoid,Bulk RNA-seq,NA,NA,NA,Human iPSC derieved cerebral organoids,0,11,Healthy untreated control,Control,NA,Yes,Yes,Controls-only human IPSC-derived cerebral organoid.
+,,,,,,,,,,,,,,,,
