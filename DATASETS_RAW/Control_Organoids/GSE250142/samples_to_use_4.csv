@@ -1,0 +1,9 @@
+﻿Run,GSM,IPSC_Line,Study_Day,Treatment,Compound,Concentration,Exposure_Days,Tissue,Sample_type,DNT_Class
+SRR27202070,GSM7974660,250A,61,Control,NA,NA,NA,Cortical brain organoid,Control,Healthy_Control
+SRR27202071,GSM7974659,250A,46,Control,NA,NA,NA,Cortical brain organoid,Control,Healthy_Control
+SRR27202072,GSM7974658,043A,26,Control,NA,NA,NA,Cortical brain organoid,Control,Healthy_Control
+SRR27202073,GSM7974661,250A,26,Control,NA,NA,NA,Cortical brain organoid,Control,Healthy_Control
+SRR27202074,GSM7974657,043A,61,Control,NA,NA,NA,Cortical brain organoid,Control,Healthy_Control
+SRR27202075,GSM7974656,043A,46,Control,NA,NA,NA,Cortical brain organoid,Control,Healthy_Control
+SRR27202076,GSM7974655,01B,61,Control,NA,NA,NA,Cortical brain organoid,Control,Healthy_Control
+SRR27202077,GSM7974654,01B,46,Control,NA,NA,NA,Cortical brain organoid,Control,Healthy_Control
